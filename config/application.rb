@@ -7,7 +7,11 @@ require 'rails/all'
 Bundler.require(:default, Rails.env) if defined?(Bundler)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 module FirstApp
+=======
+module DemoApp
+>>>>>>> 1e22b491ec9a5b2eb7c2a0028f33c152dd632194
 =======
 module DemoApp
 >>>>>>> 1e22b491ec9a5b2eb7c2a0028f33c152dd632194

@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 FirstApp::Application.configure do
+=======
+DemoApp::Application.configure do
+>>>>>>> 1e22b491ec9a5b2eb7c2a0028f33c152dd632194
 =======
 DemoApp::Application.configure do
 >>>>>>> 1e22b491ec9a5b2eb7c2a0028f33c152dd632194

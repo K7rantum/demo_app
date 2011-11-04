@@ -1,7 +1,12 @@
 source 'http://rubygems.org'
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 gem 'rails', '3.0.1'
+=======
+gem 'rails', '3.0.9'
+# gem 'sqlite3', '1.3.3'
+>>>>>>> 1e22b491ec9a5b2eb7c2a0028f33c152dd632194
 =======
 gem 'rails', '3.0.9'
 # gem 'sqlite3', '1.3.3'
@@ -11,7 +16,11 @@ gem 'rails', '3.0.9'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 gem 'sqlite3-ruby', :require => 'sqlite3'
+=======
+gem 'sqlite3-ruby', '1.2.5', :require => 'sqlite3'
+>>>>>>> 1e22b491ec9a5b2eb7c2a0028f33c152dd632194
 =======
 gem 'sqlite3-ruby', '1.2.5', :require => 'sqlite3'
 >>>>>>> 1e22b491ec9a5b2eb7c2a0028f33c152dd632194
